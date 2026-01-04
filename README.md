@@ -2,6 +2,8 @@
 
 ### 🛒 Data Analytics | Hospitality Domain
 
+---
+
 AtliQ Grands is a hospitality chain operating multiple hotel properties. This project performs an **Exploratory Data Analysis (EDA)** on AtliQ Grands’ historical booking and hotel performance data to uncover trends, operational insights, and revenue patterns.
 
 The analysis is implemented in a Jupyter Notebook using Python data analytics libraries.
