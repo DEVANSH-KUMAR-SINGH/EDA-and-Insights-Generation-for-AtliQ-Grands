@@ -65,12 +65,6 @@ git clone https://github.com/DEVANSH-KUMAR-SINGH/EDA-and-Insights-Generation-for
 cd EDA-and-Insights-Generation-for-AtliQ-Grands
 ```
 
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 ### Run the notebook
 
 ```bash
