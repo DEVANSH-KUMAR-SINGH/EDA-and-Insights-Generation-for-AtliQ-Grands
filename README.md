@@ -4,18 +4,79 @@
 
 ---
 
-AtliQ Grands is a hospitality chain operating multiple hotel properties. This project performs an **Exploratory Data Analysis (EDA)** on AtliQ Grands’ historical booking and hotel performance data to uncover trends, operational insights, and revenue patterns.
-
-The analysis is implemented in a Jupyter Notebook using Python data analytics libraries.
+AtliQ Grands is a well-established hospitality chain operating across major cities in India. This project performs an **Exploratory Data Analysis (EDA)** on historical booking and hotel performance data to uncover trends, operational insights, and revenue patterns that can support data-driven decision-making.
 
 ---
 
-## 🚀 Project Objectives
+## 🏨 Business Context
 
-- Import and explore raw datasets  
-- Clean and transform booking and hotel data  
-- Perform descriptive and visual analysis  
-- Generate insights useful for business decision-making in hospitality
+AtliQ Grands operates across **four major cities in India**:
+
+- Delhi  
+- Mumbai  
+- Bangalore  
+- Hyderabad  
+
+With nearly **20 years of experience** in the hospitality industry, the company has built a strong market presence and is now aiming to **expand its business operations**.
+
+---
+
+## 🏢 Hotel Portfolio
+
+AtliQ Grands manages multiple hotel brands catering to different customer segments:
+
+- **AtliQ Seasons**
+- **AtliQ Exotica**
+- **AtliQ Bay**
+- **AtliQ Palace**
+
+Each brand is designed to serve a distinct level of luxury and customer experience.
+
+---
+
+## 🛏️ Room Categories
+
+The hotels offer **four types of suites**:
+
+- Presidential  
+- Premium  
+- Elite  
+- Standard  
+
+These categories help AtliQ Grands cater to both premium and budget-conscious customers.
+
+---
+
+## 🌐 Booking Channels
+
+Customers can book rooms through multiple platforms:
+
+- AtliQ Grands’ **official website**
+- **Third-party booking platforms** (e.g., MakeMyTrip, etc.)
+- **Offline bookings**
+
+While this multi-channel approach increases reach, it also introduces complexity in tracking performance and revenue.
+
+---
+
+## ⚠️ Business Problem
+
+AtliQ Grands is currently facing intense competition from other hospitality chains, leading to:
+
+- Declining **revenue**
+- Loss of **market share**
+- Reduced **occupancy rates**
+
+To overcome these challenges, the company has onboarded a **data analytics initiative** to analyze historical data and generate actionable insights for business growth and expansion.
+
+---
+
+## 🎯 Project Objectives
+
+- Understand booking and occupancy trends  
+- Analyze revenue performance across hotels and room types  
+- Identify patterns across booking platforms  
+- Generate insights to support strategic decision-making  
 
 ---
 
@@ -29,16 +90,18 @@ The project uses five CSV files:
 - `fact_aggregated_bookings.csv`
 - `fact_bookings.csv`
 
-These files collectively describe hotel properties, rooms, bookings, and dates.
+These datasets collectively describe hotel properties, room details, bookings, and date information.
 
 ---
 
 ## 🧰 Tech Stack & Libraries
 
-- Python  
-- Jupyter Notebook  
-- pandas • numpy  
-- matplotlib • seaborn  
+- **Python**
+- **Jupyter Notebook**  
+- **Pandas**
+- **Numpy**  
+- **Matplotlib**
+- **Seaborn**  
 
 ---
 
