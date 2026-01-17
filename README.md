@@ -185,4 +185,14 @@ See the `LICENSE` file for details.
 ## 📬 Contact
 
 For questions or collaboration, feel free to reach out or open a discussion in the repository.
+
+---
+
+## Screenshots
+
+**Data Artitecture and Flow**
+![Data Artitecture and Flow](images/Screenshot1.png)
+
+**Data Analytics Project Steps**
+![Data Analytics Project Steps](images/Screenshot2.png)
   
